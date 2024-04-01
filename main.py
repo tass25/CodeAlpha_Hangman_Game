@@ -4,7 +4,7 @@
 from functions import select_random_word, display_word
 
 def hangman():
-    word_to_guess = select_random_word()
+    word_to_guess =select_random_word()
     # List to store guessed letters
     guessed_letters = []
     # Count of incorrect guesses
