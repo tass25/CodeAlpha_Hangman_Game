@@ -1,6 +1,6 @@
 import random
 
-# List of words for the game
+# List of words for the game , you can modify it 
 words = ["hangman", "python", "computer", "programming", "keyboard", "mouse", "monitor", "internet"]
 
 def select_random_word():
